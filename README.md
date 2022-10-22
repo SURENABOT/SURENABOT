@@ -16,7 +16,7 @@
 <a align="left" href="https://github.com/SURENABOT/SURENABOT-MD" title="SURENABOT-MD"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SURENABOT&repo=SURENABOT-MD&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" 
  </div>
 
-<br /> <br /> <br /> <br /> <br /> <h2 align="left">Language & tools:
+<br /> <br /> <br /> <br /> <br /> <h2 align="left">Languages & tools:
   <br />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
